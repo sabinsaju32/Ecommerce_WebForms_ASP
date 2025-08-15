@@ -1,0 +1,12 @@
+C:\Users\STRIX\source\repos\Ecommerce\DAL\bin\Debug\DAL.dll
+C:\Users\STRIX\source\repos\Ecommerce\DAL\bin\Debug\DAL.pdb
+C:\Users\STRIX\source\repos\Ecommerce\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\STRIX\source\repos\Ecommerce\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\STRIX\source\repos\Ecommerce\DAL\obj\Debug\DAL.dll
+C:\Users\STRIX\source\repos\Ecommerce\DAL\obj\Debug\DAL.pdb
+C:\Users\Sabin Saju\source\repos\Ecommerce\DAL\bin\Debug\DAL.dll
+C:\Users\Sabin Saju\source\repos\Ecommerce\DAL\bin\Debug\DAL.pdb
+C:\Users\Sabin Saju\source\repos\Ecommerce\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Sabin Saju\source\repos\Ecommerce\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Sabin Saju\source\repos\Ecommerce\DAL\obj\Debug\DAL.dll
+C:\Users\Sabin Saju\source\repos\Ecommerce\DAL\obj\Debug\DAL.pdb
