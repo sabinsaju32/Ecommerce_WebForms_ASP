@@ -1,6 +1,6 @@
 # Ecommerce WebForms (ASP.NET)
 
-A simple e-commerce sample built with **ASP.NET Web Forms** following a classic 3-tier layout (**UI → BLL → DAL**). Includes basic admin registration, category management, and billing helpers.
+A simple e-commerce sample built with ASP.NET Web Forms, following a classic 3-tier architecture (UI → BLL → DAL). This project demonstrates a basic online store with admin and user management, category & product handling, and simple billing functionality.
 
 ## 🧰 Tech Stack
 - **Frontend/UI:** ASP.NET Web Forms, HTML/CSS, WebForms controls  
